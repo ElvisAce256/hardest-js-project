@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    text-align: center
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+.number{
+    display: flex;
+}
+.node{
+    margin-left: 20px;
+    border: 2px solid gray;
+    border-radius: 6px;
+    padding: 5px;
+}
+.reset-button{
+    display: block;
+}
